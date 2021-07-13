@@ -1,4 +1,6 @@
 # Project1
+https://hikod.github.io/Project1-1/
+https://github.com/hikod/Project1-1
 
 Description: Goodfinds. Goodfinds is an application that allows users to find a book or movie based on the genre or qualities that they are interesteed in when they are searching for something to pass their free time.
 
